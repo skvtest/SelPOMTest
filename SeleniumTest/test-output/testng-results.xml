@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77134" started-at="2017-08-03T07:14:30Z" finished-at="2017-08-03T07:15:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77134" started-at="2017-08-03T07:14:30Z" finished-at="2017-08-03T07:15:48Z">
+      <class name="com.test.testcases.TestCase">
+        <test-method status="PASS" signature="CheckBrowserName()[pri:0, instance:com.test.testcases.TestCase@35fb3008]" name="CheckBrowserName" duration-ms="77082" started-at="2017-08-03T12:44:30Z" finished-at="2017-08-03T12:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBrowserName -->
+        <test-method status="PASS" signature="EnterRegForm()[pri:0, instance:com.test.testcases.TestCase@35fb3008]" name="EnterRegForm" duration-ms="1" started-at="2017-08-03T12:45:48Z" finished-at="2017-08-03T12:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterRegForm -->
+      </class> <!-- com.test.testcases.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

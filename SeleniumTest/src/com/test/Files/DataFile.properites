@@ -1,0 +1,4 @@
+// This file is used for reading the URL and credentials.
+
+URL=http://demoqa.com
+browser=Chrome
